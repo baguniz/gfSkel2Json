@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com:baguniz/gfSkel2Json"
+    "url": "http://github.com/baguniz/gfSkel2Json"
+  },
+  "bugs": {
+    "url": "http://github.com/baguniz/gfSkel2Json/issues"
   },
   "author": "baguniz",
   "license": "GPL-2.0",
@@ -17,5 +20,6 @@
     "glob": "^7.1.3",
     "glob-promise": "^3.4.0",
     "lodash": "^4.17.11"
-  }
+  },
+  "keywords": ["girl's frontline", "gf", "spine", "skel"]
 }
